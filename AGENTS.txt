@@ -220,4 +220,4 @@ Quiero comenzar por el análisis del problema y tomar mis propias decisiones de 
 
 10. Conocimientos previos
 
-Tengo conocimientos básico de python, manejo de consola, trabajo con colecciones, POO, CRUD. La idea es tener un proyecto personal movil, no he trabajado nunca para el desarrollo de una aplicación móvil, sería el primero
+Tengo conocimientos básico de python, manejo de consola, trabajo con colecciones, POO, CRUD con tkinter. La idea es tener un proyecto personal móvil, no he trabajado nunca para el desarrollo de una aplicación móvil, sería el primero
